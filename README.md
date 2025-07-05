@@ -2,10 +2,7 @@
 
 A full-stack web application that fetches clinical trial data directly from the ClinicalTrials.gov API and presents it in an interactive, user-friendly interface with comprehensive analytics and visualizations.
 
-## 🚀 Live Demo
 
-- **Frontend**: [Deployed on Render](https://your-frontend-url.onrender.com)
-- **Backend API**: [Deployed on Render](https://your-backend-url.onrender.com)
 
 ## 📋 Features
 
